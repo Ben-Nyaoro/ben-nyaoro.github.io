@@ -1,0 +1,18 @@
+.footer {
+    background-color: #2c2b2b;
+    color: white;
+    padding: 48px;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.footer li {
+    display: inline-block;
+    text-decoration: none;
+    margin: 16px;
+    font-size: 32px;
+}
+
+.footer a {
+    color: #1edd88;
+}
